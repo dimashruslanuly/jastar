@@ -1,0 +1,2 @@
+# jastar
+Jastar ortalygy
